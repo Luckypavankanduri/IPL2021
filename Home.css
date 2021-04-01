@@ -1,0 +1,82 @@
+body{
+    background-color:white;
+}
+.navbar-nav .nav-item .nav-link{
+    color:white;
+    font-weight:400;
+    font-size:25px;
+    font-family: 'Source Sans Pro', sans-serif;
+    padding-left:25px;
+    text-transform: uppercase;
+    text-align:center;
+}
+.navbar-nav .nav-item .nav-link.active{
+    color:#ddab16;
+    font-weight:400;
+    font-size:25px;
+    font-family: 'Source Sans Pro', sans-serif;
+    padding-left:25px;
+    text-transform: uppercase;
+}
+.header{
+    color:white;
+    font-size:24px;
+    text-align:center;
+    padding-top:50px;
+}
+.card-img-top:hover{
+    transform:scale(1.1);
+}
+#one{
+    background-color:#19398a;
+    background-image:radial-gradient(circle farthest-side,#061d42,#19398a);
+    
+}
+#heading{
+    color:white;
+    font-weight:bold;
+    text-align:center;
+    padding-top:35px;
+}
+#matter{
+    color:white;
+    text-align:center;
+}
+#last{
+    color:white;
+    text-align:center;
+    padding-bottom:35px;
+}
+#two{
+    background-color:#19398a;
+    background-image:radial-gradient(circle farthest-side,#061d42,#19398a);
+    padding-top:50px;
+}
+ .card-header .date_time {
+    font-weight: bold;
+    font-size:larger;
+}
+ .card-header .venue {
+    margin-left:10px;
+}
+ .card-body .team_name{
+    font-weight:bold;
+    font-size:25px;
+}
+ .card-body .team_logo{
+    width:50px;
+    height:50px;
+}
+ .card-body .versus {
+    background-color:#dc3545;
+    color: white;
+    border-radius: 50%;
+    padding:2px 2px;
+    margin: 5px 5px;
+}
+ .card-header {
+    background-color: #f9f0cb;
+}
+ .card-body {
+    background-color: #f9f0cb;
+}

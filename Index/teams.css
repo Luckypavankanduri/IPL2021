@@ -1,0 +1,126 @@
+body{
+    background-color:white;
+}
+.navbar-nav .nav-item .nav-link{
+    color:white;
+    font-weight:400;
+    font-size:25px;
+    font-family: 'Source Sans Pro', sans-serif;
+    padding-left:25px;
+    text-transform: uppercase;
+    text-align:center;
+}
+.navbar-nav .nav-item .nav-link.active{
+    color:#ddab16;
+    font-weight:400;
+    font-size:25px;
+    font-family: 'Source Sans Pro', sans-serif;
+    padding-left:25px;
+    text-transform: uppercase;
+}
+#csk{
+    background:linear-gradient(136deg,#fdb913,#f85c00);
+    background-image: linear-gradient(136deg, rgb(253,185,19), rgb(248,92,0));
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-repeat: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: initial;
+}
+#dc{
+    background:linear-gradient(136deg,#004c93,#0358a7);
+    background-image: linear-gradient(136deg, rgb(0,76,147), rgb(3,88,167));
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-repeat: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: initial;
+}
+#kkr{
+    background:linear-gradient(136deg,#70458f,#3d2057);
+    background-image: linear-gradient(136deg, rgb(112,69,143), rgb(61,32,87));
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-repeat: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: initial;
+}
+#mi{
+    background:linear-gradient(136deg,#005da0,#003a63);
+    background-image: linear-gradient(136deg, rgb(0,93,160), rgb(0,58,99));
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-repeat: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: initial;
+}
+#pk{
+    background:linear-gradient(136deg,#aa4545,#740f0b);
+    background-image: linear-gradient(136deg, rgb(170,69,69), rgb(116,15,11));
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-repeat: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: initial;
+}
+#rr{
+    background:linear-gradient(136deg,#2d4d9d,#172e5e);
+    background-image: linear-gradient(136deg, rgb(45,77,157), rgb(23,46,94));
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-repeat: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: initial;
+}
+#rcb{
+    background:linear-gradient(136deg,#000,#464646);
+    background-image: linear-gradient(136deg, rgb(0,0,0), rgb(70,70,70));
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-repeat: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: initial;
+}
+#srh{
+    background:linear-gradient(136deg,#fb643e,#b81c25);
+    background-image: linear-gradient(136deg, rgb(251,100,62), rgb(184,28,37));
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-repeat: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: initial;
+}
+.team_name{
+    color:white;
+    text-align:center;
+    font-weight:bold;
+    font-size:24px;
+}
+.year{
+    color:gold;
+    text-align:center;
+}
+.website{
+    color:white;
+    border: none;
+    text-align: center;
+    padding-bottom:15px;
+    font-weight:700;
+    font-size:20px;
+}

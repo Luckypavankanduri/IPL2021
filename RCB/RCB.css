@@ -1,0 +1,97 @@
+body{
+	font-family:"Source Sans Pro",sans-serif;
+	background:#15202b;  /* fallback for old browsers */
+}
+#mainNavbar {
+	background: #0066b3;
+}
+#mainNavbar .navbar-brand{
+	font-weight:700;
+	font-size:1.2rem;
+	color:black;
+	
+}
+#mainNavbar #logo {
+	margin:10px 0px;
+	vertical-align: middle;
+
+}
+#mainNavbar .nav-link{
+	float: left;
+    color: #ffffff;
+    text-align: center;
+    padding: 18px 14px 18px 14px;
+    text-decoration: none;
+    font-size: 25px;
+    font-weight: 500;
+    line-height: 25px;
+}
+#mainNavbar .nav-link:hover{
+	
+	color:#563089;
+}
+
+#gallery {
+    padding-top: 50px;
+}
+#gallery .container .card-header .team_name{
+    font-weight: bold;
+	font-size:xx-large;
+	
+}
+
+#gallery .container .card-body .venue{
+    font-weight:bold;
+    font-size:25px;
+	
+}
+#gallery .container .card-body .coach{
+    font-weight:bold;
+    font-size:25px;
+}
+#gallery .container .card-body .Captain{
+    font-weight:bold;
+    font-size:25px;
+	padding-left:10px;
+	margin-top:50px;
+}
+#gallery .container .card-body .name{
+    font-weight:inherit;
+    font-size:22px;
+}
+#gallery .container .card-body .stadiumname{
+    font-weight:inherit;
+    font-size:22px;
+	padding-right:0px;
+}
+
+#gallery .container .card-body .team_logo{
+    width:1050px;
+    height:500px;
+	
+}
+
+#gallery .container .card-header{
+    background-color: #f9f0cb;
+	
+}
+#gallery .container .card-body {
+    background-color: #f9f0cb;
+	padding-right:135px;
+	padding-left:127px;
+	border:none;
+	box-sizing: unset;
+	
+}
+.header{
+    
+    margin-bottom: 1.5rem;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 500;
+    line-height: 39px;
+    color: white;
+	font-size:41px;
+	text-align: center;
+	
+}
+

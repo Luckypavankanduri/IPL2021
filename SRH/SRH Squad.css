@@ -1,0 +1,33 @@
+body{
+	font-family:"Source Sans Pro",sans-serif;
+	background-image: url(./bg.png);
+	background-repeat: repeat;
+	background-color:orangered;
+}
+.card-title{
+	font-weight:900;
+	font-size:1.8rem;
+}
+.header{
+    margin-bottom: 1.5rem;
+    line-height: 39px;
+    font-size:41px;
+	text-align: center;
+}
+.card-mb-3 {
+	padding-top:50px;
+	align-self: center;
+}
+.top-left{
+	color:#605e63;
+	top:15px;
+	right:15px;
+	position: absolute;
+	font-size:70px;
+	line-height: 100px;
+	font-style: italic;
+	font-weight: bold;
+	z-index:1;
+	font-family: 'Italianno', cursive;
+	letter-spacing: 1px;
+}

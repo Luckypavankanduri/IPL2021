@@ -1,0 +1,50 @@
+body{
+	font-family:"Source Sans Pro",sans-serif;
+}
+#mainNavbar .navbar-brand{
+	font-weight:700;
+	font-size:1.2rem;
+	color:white;
+}
+#mainNavbar .nav-link{
+	font-weight:700;
+	font-size:1.2rem;
+	color:white;
+}
+#mainNavbar .nav-link:hover{
+	
+	color: blue;
+}
+.teams h4{
+	font-weight:400;
+	font-style: italic;
+}
+.teams p{
+	font-style:inherit;
+	
+	line-height:1.5;
+}
+h3{
+	font-weight:900;
+	font-style:italic;
+}
+.card h4{
+	border: 1px solid transparent;
+	background-color: blue;
+	font-weight:400;
+	font-size:1.5rem;
+	text-align: center;
+	
+}
+.card-title{
+	font-weight:900;
+	font-style:italic;
+	font-size:1.8rem;
+}
+.card .card-text{
+	font-weight: 900;
+	
+}
+@media screen and (max-width:481px){
+	
+}

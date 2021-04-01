@@ -1,0 +1,67 @@
+body{
+    background-color:white;
+}
+.navbar-nav .nav-item .nav-link{
+    color:white;
+    font-weight:400;
+    font-size:25px;
+    font-family: 'Source Sans Pro', sans-serif;
+    padding-left:25px;
+    text-transform: uppercase;
+    text-align:center;
+}
+.navbar-nav .nav-item .nav-link.active{
+    color:#ddab16;
+    font-weight:400;
+    font-size:25px;
+    font-family: 'Source Sans Pro', sans-serif;
+    padding-left:25px;
+    text-transform: uppercase;
+}
+.teams h4{
+	font-size:2.5rem;
+    font-family: 'Source Sans Pro', sans-serif;
+	font-style:normal;
+    font-weight:700;
+    color:white;
+}
+.teams p{
+	font-style:inherit;
+    font-family:'Source Sans Pro', sans-serif;
+	color:white;
+	
+    font-size:1rem;
+}
+.row.justify-content-center{
+    background-image: radial-gradient(circle at -40% -10%,#4f76f2,#0f1b41 60%);
+    background-size: cover,cover;
+}
+.row.justify-content-center .info{
+    color:inherit;
+    font-size:1.2rem;
+    padding-left:25px;
+}
+.row.justify-content-center .amount{
+    color:white;
+    font-weight:700;
+    font-size:2rem;
+
+}
+#expensive{
+    width: 100%;
+    background-image: linear-gradient(90deg,#14135b,#820f66);
+    text-align:center;
+    font-size: 1.6rem;
+    size: cover;
+}
+.header{
+    font-style:normal;
+    font-family:'Source Sans Pro', sans-serif;
+    color:black;
+    padding-top:25px;
+    text-align:center;
+    padding-bottom:15px;
+}
+.table-dark{
+    background-color:#14135b;
+}

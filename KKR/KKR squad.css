@@ -1,0 +1,71 @@
+body{
+	font-family:"Source Sans Pro",sans-serif;
+	background:#34282c;  /* fallback for old browsers */
+}
+#mainNavbar {
+	background: #0066b3;
+}
+#mainNavbar .navbar-brand{
+	font-weight:700;
+	font-size:1.2rem;
+	color:black;
+	
+}
+#mainNavbar #logo {
+	margin:10px 0px;
+	vertical-align: middle;
+
+}
+#mainNavbar .nav-link{
+	float: left;
+    color: #ffffff;
+    text-align: center;
+    padding: 18px 14px 18px 14px;
+    text-decoration: none;
+    font-size: 25px;
+    font-weight: 500;
+    line-height: 25px;
+}
+#mainNavbar .nav-link:hover{
+	
+	color:#563089;
+}
+
+.card-title{
+	font-weight:900;
+	font-style:italic;
+	font-size:1.8rem;
+}
+.header{
+    
+    margin-bottom: 1.5rem;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 500;
+    line-height: 39px;
+    color: white;
+	font-size:41px;
+	text-align: center;
+	
+}
+.card-title{
+	font-weight:bold;
+	color:#001488;
+    font-size:20px;
+    text-transform: uppercase;
+}
+.player{
+	font-weight:inherit;
+	color:#001488;
+	font-size:20px;
+    text-transform: uppercase;
+}
+#gallery .card .card-img-top:hover{
+    background-color:black;
+}
+.card-mb-3 {
+	padding-top:50px;
+	align-self: center;
+}
+.card-body {
+	background-color: white;
+}
